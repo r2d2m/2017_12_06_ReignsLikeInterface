@@ -10,3 +10,10 @@ https://github.com/JamsCenter/2017_10_16_UnityStarterPack/wiki/M%237011).
       
 For more information, feel free to contact me:      
 http://jams.center/eloi/ or on https://discord.gg/xT2uwBw
+
+
+
+Video:
+- [Playthrough](https://www.youtube.com/watch?v=0_MQoGCUF1I&list=PLBqXrq67D6opWAPG6E07KU8XUmnJP53dg)
+- [Jesus](https://www.youtube.com/watch?v=c5Gt50VxhJA)
+- [Trick the devil (SPOILER)](https://youtu.be/rbCqkfCVHjQ)
