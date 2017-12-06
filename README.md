@@ -4,6 +4,6 @@
 
 This project is created for the [Unity Starter Pack course](https://github.com/JamsCenter/2017_10_16_UnityStarterPack/wiki/M%237011)
 
-The goal is to learn how to create UI with Unity by re-enginering the main interface of game [Reigns](http://store.steampowered.com/app/474750/Reigns/)
+The goal is to learn how to create UI with Unity by re-engineering the main interface of game [Reigns](http://store.steampowered.com/app/474750/Reigns/)
 For information on the exercice [here](
 https://github.com/JamsCenter/2017_10_16_UnityStarterPack/wiki/M%237011).
