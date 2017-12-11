@@ -1,0 +1,1 @@
+{"_questions":[{"_id":"0","_question":"Can I eat the cat","_yes":{"_text":"Yes !","_effect":[]},"_no":{"_text":"To mush hair","_effect":[]}},{"_id":"1","_question":"Can I eat the red frog","_yes":{"_text":"Red is good","_effect":[{"_idName":"Life","_value":1.0},{"_idName":"Food","_value":0.10000000149011612}]},"_no":{"_text":"Poison ! Is bad","_effect":[]}}]}
